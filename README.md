@@ -10,5 +10,5 @@ Some future ideas for this work:
 
 - making more different results for better understanding: how does content/style losses specification on encoder's layers affect final results?
 
-  ![style 1](pics/style 1.gif)
+  ![style 1](pics/style_1.gif "NST")
 
